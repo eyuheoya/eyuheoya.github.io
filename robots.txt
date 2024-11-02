@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyuheoya.github.io/Rkx/sitemap_index.txt
+Sitemap: https://eyuheoya.github.io/Ryq/sitemap_index.txt
+Sitemap: https://eyuheoya.github.io/SBb/sitemap_index.txt
+Sitemap: https://eyuheoya.github.io/VyB/sitemap_index.txt
